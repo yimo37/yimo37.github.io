@@ -16,5 +16,105 @@
   
   
   
+  <entry>
+    <title>win11下VC++ 6.0无法启动问题</title>
+    <link href="/2022/03/11/win11%E4%B8%8BMSVC++%206.0%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E9%97%AE%E9%A2%98/"/>
+    <url>/2022/03/11/win11%E4%B8%8BMSVC++%206.0%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<p><strong>这个问题可多人问过我，我目前发现好像只有联想电脑的win11才会出现这样的问题（不兼容问题）。</strong><br><strong>希望以下的方法可以帮到您。</strong></p><h2 id="解决方案："><a href="#解决方案：" class="headerlink" title="解决方案："></a>解决方案：</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>进入安装目录，把Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.exe改为MSDEVL.exe<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/25.png" srcset="/img/loading.gif" lazyload alt="目录"></p><h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h3><p>然后右键属性，点击兼容性，勾选兼容模式windows xp(service pack2)<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/24.png" srcset="/img/loading.gif" lazyload alt="属性"></p><h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步"></a>第三步</h3><p>最后勾选管理员运行即可。<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/26.png" srcset="/img/loading.gif" lazyload alt="以管理员身份运行"></p><p><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/27.png" srcset="/img/loading.gif" lazyload alt="成功"><br>这样就可以成功地写代码了哦~~~~</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>教程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Lively Wallpaper的使用教程</title>
+    <link href="/2022/03/02/livewallpaper%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <url>/2022/03/02/livewallpaper%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/1.gif" srcset="/img/loading.gif" lazyload alt="图片1"></p><p>各位看官，想不想和我一样有这样一个漂亮的动态桌面</p><p>1.下载软件lively wallpaper的安装包<br>（这个软件我会以链接的形式放在最后）<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/2.png" srcset="/img/loading.gif" lazyload alt="图片2"></p><p>2.进行安装<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/3.png" srcset="/img/loading.gif" lazyload alt="图片3"></p><p><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/4.png" srcset="/img/loading.gif" lazyload alt="图片4"></p><p>点击下一步后进行安装<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/5.png" srcset="/img/loading.gif" lazyload alt="图片5"></p><p>注意：<br>安装进度条满后会让你安装两个软件，Microsoft Visual c++ 2015-2019 Redistributable和Microsoft Windows Desktop Runtime - 3.1.7(x86)。安装程序之前，你可以去设置-&gt;应用-&gt;应用与功能中中查找自己安装这两个软件了没，如果安装了就可以跳过安装这两个软件。</p><p>(这个是我已经装好的如果需要安装的话的话就一步一步往下走就行了）<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/6.png" srcset="/img/loading.gif" lazyload alt="图片6"><br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/7.png" srcset="/img/loading.gif" lazyload alt="图片7"></p><p>3.打开应用并添加壁纸<br>壁纸一般自己可以在网上找的<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/8.png" srcset="/img/loading.gif" lazyload alt="图片8"></p><p>点击加号<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/9.png" srcset="/img/loading.gif" lazyload alt="图片9"><br>点击预览在选择文件里找到你要上传的文件<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/10.png" srcset="/img/loading.gif" lazyload alt="图片10"><br>点级右下角的打开<br>在主界面就会显示配置文件，可以对其定义，点击ok即可<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/11.png" srcset="/img/loading.gif" lazyload alt="图片11"></p><p>4.壁纸声音的处理<br>一般来说视频都是有声音的所以你的壁纸也是会有声音的<br>所以我们要对声音进行设置<br>点击设置—&gt;音频，通过控制主音量就可以了<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/12.png" srcset="/img/loading.gif" lazyload alt="图片12"><br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/13.png" srcset="/img/loading.gif" lazyload alt="图片13"></p><p>亲爱的看官，你学废了没？</p><p>lively wallpaper的下载地址：链接：<a href="https://pan.baidu.com/s/1y3Y6W9gb6sPtKjzWrBNvbQ">https://pan.baidu.com/s/1y3Y6W9gb6sPtKjzWrBNvbQ</a><br>提取码：t195<br>水木年华壁纸 链接：<a href="https://pan.baidu.com/s/1gtWTsiNwE9yKD-1aiWNLKA">https://pan.baidu.com/s/1gtWTsiNwE9yKD-1aiWNLKA</a><br>提取码：1qe9</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>教程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>vscode的配置</title>
+    <link href="/2022/03/02/vscode%E7%9A%84%E9%85%8D%E7%BD%AE/"/>
+    <url>/2022/03/02/vscode%E7%9A%84%E9%85%8D%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1、安装vscode"><a href="#1、安装vscode" class="headerlink" title="1、安装vscode"></a>1、安装vscode</h2><p>下载地址：<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></p><h2 id="2、安装c-x2F-c-扩展"><a href="#2、安装c-x2F-c-扩展" class="headerlink" title="2、安装c&#x2F;c++扩展"></a>2、安装c&#x2F;c++扩展</h2><p><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/14.png" srcset="/img/loading.gif" lazyload alt="1"><br>点击最左边第四个图标，然后搜索关键词“c”，安装前3个插件。</p><h2 id="3、安装编译环境mingw-w64"><a href="#3、安装编译环境mingw-w64" class="headerlink" title="3、安装编译环境mingw-w64"></a>3、安装编译环境mingw-w64</h2><p>下载地址：<a href="http://www.mingw-w64.org/doku.php/download">http://www.mingw-w64.org/doku.php/download</a></p><p>配置环境变量，以WIN10为例 ，此电脑-属性-高级系统设置-环境变量-系统变量-path-新建一条C:\mingw-w64\mingw32\bin\（此路径即你安装的编译环境的地址）<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/15.png" srcset="/img/loading.gif" lazyload alt="2"></p><h3 id="检测环境变量是否配置成功"><a href="#检测环境变量是否配置成功" class="headerlink" title="检测环境变量是否配置成功"></a>检测环境变量是否配置成功</h3><p>按win+r，输入cmd回车，在cmd中输入gcc -v<br>cmd配置前：<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/16.jpg" srcset="/img/loading.gif" lazyload alt="3"><br>cmd 配置后：<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/17.png" srcset="/img/loading.gif" lazyload alt="4"></p><h2 id="4-配置vscode"><a href="#4-配置vscode" class="headerlink" title="4.配置vscode"></a>4.配置vscode</h2><p>1）打开文件夹后，新建hello.c进行测试：<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/18.png" srcset="/img/loading.gif" lazyload alt="5"><br>2）按F5进行调试，出现下面标识，选择c++(GDB)<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/19.png" srcset="/img/loading.gif" lazyload alt="6"><br>3）选择launch.json 然后会在工作目录下的生成一个launch.json的启动配置文件: 并修改相应的文件<br>下图是修改过以后的<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/20.png" srcset="/img/loading.gif" lazyload alt="7"><br>4）回到hello.c按F5进行调试，需选择配置任务,任务模板中选择<br>Others 运行任意外部命令的示例</p><p><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/21.png" srcset="/img/loading.gif" lazyload alt="8"><br>5）配置c_cpp_properties.json<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/22.png" srcset="/img/loading.gif" lazyload alt="9"></p><h2 id="5、一劳永逸"><a href="#5、一劳永逸" class="headerlink" title="5、一劳永逸"></a>5、一劳永逸</h2><p>因为VS需要为每一个文件夹做单独配置，所以建议把.vscode文件夹放到你常用的文件夹的顶层，这样就不用重复配置了。不用每个新cpp文件就要一套配置。这些配置在你配置好的文件夹内的所有子文件夹和文件都能使用。注：printf语句中有中文，调试时显示的是乱码，可进行下面的操作。</p><hr><p>注：printf语句中有中文，调试时显示的是乱码，可进行下面的操作。<br><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/23.png" srcset="/img/loading.gif" lazyload alt="10"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>教程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>教程</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>集中隔离还是来了！！！</title>
+    <link href="/2022/01/16/%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81/"/>
+    <url>/2022/01/16/%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E8%BF%98%E6%98%AF%E6%9D%A5%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81/</url>
+    
+    <content type="html"><![CDATA[<p>&amp;emsp;&amp;emsp;从安阳回来已经十多天了，理应说再几天就完成了居家隔离14天的任务。结果收到疫情防控制中心的通知，直接第十二天下午直接给我拉去集中隔离了!!!<br><img src="https://s3.bmp.ovh/imgs/2022/01/59bbd22d6c9ab9b0.jpg" srcset="/img/loading.gif" lazyload alt="1"><br>&amp;emsp;&amp;emsp;第一天刚到的时候，就是下午四点了，收拾了一下床铺，整理一下衣物。就开始了我的三国杀了，不得不说啊，夏侯霸配上曹彰简直是我的噩梦！！！他俩在我就没赢过。真是难受。<br><img src="https://s3.bmp.ovh/imgs/2022/01/dbf79c1234378ff9.jpg" srcset="/img/loading.gif" lazyload alt="2"><br>&amp;emsp;&amp;emsp;就在我酣战的时候，阿姨给我带来了可口的饭菜。<br><img src="https://s2.loli.net/2022/01/16/XmB7U5aQv9YTtyx.jpg" srcset="/img/loading.gif" lazyload alt="可口的下午饭菜"><br>&amp;emsp;&amp;emsp;吃着还行，口感不错哦！然后我就开始了夜生活……<br>&amp;emsp;&amp;emsp;第二天，上午一起来，就九点半了，贴心医护人员就为我进行了核酸检测，她把棉签从我鼻子里面塞，我就一直往后退，她笑笑说，你一直往后退干啥。（肯定疼啊，要不疼我还往撤个毛啊！）</p><p>&amp;emsp;&amp;emsp;就这样子，一连着就过了四五天……<br>&amp;emsp;&amp;emsp;那天，天气挺好的，我被一个电话声吵醒.“您好，你是xx房间的xx先生吧，由于上级政策的变动，您可以提前回家了,现在收拾一下东西准备准备，一会下来准备走！”<br>&amp;emsp;&amp;emsp;啊哈！！！终于要回家了，开心。<br><img src="https://s2.loli.net/2022/01/24/PgK71CmyHBUpxrn.jpg" srcset="/img/loading.gif" lazyload alt="隔离场所"><br>看这就是我隔离几天的集中隔离点。<br>&amp;emsp;&amp;emsp;芜湖！！！可算要回家了。<br><img src="https://s2.loli.net/2022/01/24/dDXLZgrqunYwvaz.jpg" srcset="/img/loading.gif" lazyload alt="5"><br>&amp;emsp;&amp;emsp;最后还是他们那边的车把我给送了回来。来的时候是车接，走的时候是车送<br>&amp;emsp;&amp;emsp;愿疫去春来，人间依旧一片灿烂，加油！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>杂感</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>杂感</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
   
 </search>
