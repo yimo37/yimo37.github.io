@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>RSA算法</title>
+    <link href="/2022/06/24/RSA%E7%AE%97%E6%B3%95/"/>
+    <url>/2022/06/24/RSA%E7%AE%97%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<p>​距离上一次更新已经好久了（手动滑稽）</p><p>​今天晚上本想着写道密码题，可是一看题目RSA神马玩意？？？不得不去学习了一波。</p><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/28.png" srcset="/img/loading.gif" lazyload/><h2 id="官方解释"><a href="#官方解释" class="headerlink" title="官方解释"></a>官方解释</h2><p>​RSA是1977年由罗纳德·李维斯特(Ron Rivest）、阿迪·萨莫尔（Adi Shamir）和伦纳德·阿德曼（Leonard Adleman）一起提出的。当时他们三人都在麻省理工学院工作。RSA就是他们三人姓氏开头字母拼在一起组成的 。</p><h2 id="计算过程"><a href="#计算过程" class="headerlink" title="计算过程"></a>计算过程</h2><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/29.png" srcset="/img/loading.gif" lazyload/><p>mod表示取余数</p><ul><li>欧拉函数是小于n的正整数中与n互质的数的数目。</li><li>互质是公约数只有1的两个整数，叫做互质整数。</li><li>质数是指在大于1的自然数中，除了1和它本身以外不再有其他因数的自然数。</li></ul><p>​     其中d模反元素的解释为： 如果两个正整数e和φ(n)互质，那么⼀定可以找到⼀个整数d，使得e<em>d-1被φ(n)整除，或者说e</em>d除以φ(n)所得余数为1。此时，d就叫做e的模反元素。</p><p>​通过学习了这些，我的那道题就迎刃而解了。</p><p>​这些东西也是在B站上看一个到一个叫<a href="https://space.bilibili.com/253413704">可厉害的土豆</a>小姐姐讲的，她讲的东西浅显易懂，有需要的可以看看（手动滑稽）。</p><img src="https://raw.githubusercontent.com/yimo37/cloudimg/main/30.png" srcset="/img/loading.gif" lazyload/><p>​自己学习网络安全的路还很长。(ง •_•)ง(ง •_•)ง(ง •_•)ง</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>crypto</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>密码</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/06/03/hello-world/"/>
     <url>/2022/06/03/hello-world/</url>
